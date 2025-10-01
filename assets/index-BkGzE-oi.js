@@ -1,0 +1,1 @@
+const n={Chat:"chat",Vision:"vision",Audio:"audio",Embedding:"embedding",Tool:"tool",Reasoning:"reasoning",ImageGen:"image_gen",VideoGen:"video_gen",FunctionCalling:"function_calling",WebSearch:"web_search",Rerank:"rerank",CodeGen:"code_gen",Translation:"translation",Transcription:"transcription"};export{n as M};
