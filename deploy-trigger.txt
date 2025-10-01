@@ -1,0 +1,5 @@
+Deployment trigger - $(date)
+Latest features:
+- Model management dialog collapse/expand functionality
+- Model selector search functionality
+- Performance optimizations
