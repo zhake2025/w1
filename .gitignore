@@ -1,0 +1,7 @@
+# Node
+node_modules/
+dist/
+
+# Local tooling
+.codebuddy/
+.ai_workspace/
