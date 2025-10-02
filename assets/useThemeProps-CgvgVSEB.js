@@ -1,0 +1,1 @@
+import{df as a,dg as m,dh as u}from"./index-BFQp9Otg.js";const f=a();function h({props:t,name:r,defaultTheme:o,themeId:s}){let e=m(o);return s&&(e=e[s]||e),u({theme:e,name:r,props:t})}export{f as s,h as u};

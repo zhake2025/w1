@@ -1,1 +1,0 @@
-import{de as a,df as m,dg as u}from"./index-Bp4oiTTd.js";const f=a();function n({props:t,name:r,defaultTheme:o,themeId:s}){let e=m(o);return s&&(e=e[s]||e),u({theme:e,name:r,props:t})}export{f as s,n as u};
